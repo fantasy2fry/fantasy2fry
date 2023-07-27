@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+## I'm [Norbert Maksymilian Frydrysiak!](https://github.com/fantasy2fry)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/norbert-frydrysiak-055a77219/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/fantasywfry/)
+
+
+
 
 <!--
 **fantasy2fry/fantasy2fry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
