@@ -47,6 +47,11 @@ From a very young age, I have shown a great interest in the exact sciences, espe
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
+### Projects:
+- [Credit Score Classification](https://github.com/fantasy2fry/credit-score-classification-ml) - This Project is created as part of introduction to machine learning course included in Data Science Studies.
+- [Linux Me Project](https://github.com/fantasy2fry/linux_me_project) - Analyzing Linux system data using R and Shinydashboard for insightful insights.
+- [Java Football Data Visualizer](https://github.com/fantasy2fry/java-football-fbref-data-visualizer) - Football FBref Data Scraper with Plotly Visualization in Java
+
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
