@@ -48,10 +48,10 @@ From a very young age, I have shown a great interest in the exact sciences, espe
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ### Projects:
-- [Credit Score Classification](https://github.com/fantasy2fry/credit-score-classification-ml) - This Project is created as part of introduction to machine learning course included in Data Science Studies.
+- [Credit Score Classification](https://github.com/fantasy2fry/credit-score-classification-ml) - The goal of the project is to predict based on data whether a given person will repay the loan.
 - [Linux Me Project](https://github.com/fantasy2fry/linux_me_project) - Analyzing Linux system data using R and Shinydashboard for insightful insights.
 - [Java Football Data Visualizer](https://github.com/fantasy2fry/java-football-fbref-data-visualizer) - Football FBref Data Scraper with Plotly Visualization in Java.
-- [Fast Food Data Analysis Project](https://github.com/fantasy2fry/fast_food_data_analysis_project) - This project was created as part of the Data Visualization Techniques course in the Data Engineering and Analysis studies. The goal of the project was to analyze food-related data using R language and ggplot package, and create a poster.
+- [Fast Food Data Analysis Project](https://github.com/fantasy2fry/fast_food_data_analysis_project) - The goal of the project was to analyze food-related data using R language and ggplot package, and create a poster.
 
 
 <details>	
