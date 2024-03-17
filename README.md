@@ -8,8 +8,7 @@
 
 I approach my studies with great ambition and passion. I am seeking an IT internship that will provide me with valuable experience necessary to achieve my dreams. Despite being an individualist, I know how to function in a team to develop and achieve our goals together. I am open to new challenges.
 
-From a very young age, I have shown a great interest in the exact sciences, especially mathematics. I am also interested in the family of GNU/Linux operating systems and new technologies. In my free time, I follow the world of football and computer games.
-
+From a very young age, I have shown a great interest in the exact sciences, especially mathematics. I am also interested in the family of GNU/Linux operating systems and new technologies. In my free time, I follow the world of football and computer games. My newest interest is Reinforcement Learning, and it's something I'm eager to further develop in the future.
 
 <!--https://github.com/Ileriayo/markdown-badges-->
 
