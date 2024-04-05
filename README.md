@@ -3,6 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/norbert-frydrysiak-055a77219/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/fantasywfry/)
 
+Contact - [norbert.frydrysiak@proton.me](mailto:norbert.frydrysiak@proton.me)
+
 ## I'm [Norbert Maksymilian Frydrysiak!](https://github.com/fantasy2fry)
 #### Data Science Student 🎓 - Faculty of Mathematics and Information Science - Warsaw University of Technology 🏛
 
