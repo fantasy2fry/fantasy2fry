@@ -53,7 +53,9 @@ From a very young age, I have shown a great interest in the exact sciences, espe
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ### Projects:
+- [Hyperparameter Tunability AutoML](https://github.com/fantasy2fry/Hyperparameter-Tunability-AutoML) - The goal of this project is to analyze the tunability of hyperparameters of three selected machine learning algorithms (e.g., XGBoost, Random Forest, Elastic Net) on at least four datasets.
 - [RL-Doom](https://github.com/AdamKaniasty/RL-Doom) - The Project implements Reinforcement Learning methods in Doom game using vizdoom package.
+- [Brand Laptops Clustering](https://github.com/fantasy2fry/brand-laptops-clustering-ml) - The objective of the project is to analyze and evaluate various clustering algorithms on a dataset of laptops.
 - [Credit Score Classification](https://github.com/fantasy2fry/credit-score-classification-ml) - The goal of the project is to predict based on data whether a given person will repay the loan.
 - [Linux Me Project](https://github.com/fantasy2fry/linux_me_project) - Analyzing Linux system data using R and Shinydashboard for insightful insights.
 - [Java Football Data Visualizer](https://github.com/fantasy2fry/java-football-fbref-data-visualizer) - Football FBref Data Scraper with Plotly Visualization in Java.
