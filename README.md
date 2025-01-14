@@ -53,6 +53,7 @@ From a very young age, I have shown a great interest in the exact sciences, espe
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ### Projects:
+- [AUTOFUND](https://github.com/PiotrTyrakowski/AUTOFUND) - The project is an AutoML package that automates building, training, and tuning machine learning models on Numerai data for market trend forecasting.
 - [Hyperparameter Tunability AutoML](https://github.com/fantasy2fry/Hyperparameter-Tunability-AutoML) - The goal of this project is to analyze the tunability of hyperparameters of three selected machine learning algorithms (e.g., XGBoost, Random Forest, Elastic Net) on at least four datasets.
 - [RL-Doom](https://github.com/AdamKaniasty/RL-Doom) - The Project implements Reinforcement Learning methods in Doom game using vizdoom package.
 - [Brand Laptops Clustering](https://github.com/fantasy2fry/brand-laptops-clustering-ml) - The objective of the project is to analyze and evaluate various clustering algorithms on a dataset of laptops.
