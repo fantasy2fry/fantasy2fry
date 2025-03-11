@@ -53,6 +53,7 @@ From a very young age, I have shown a great interest in the exact sciences, espe
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ### Projects:
+- [March Machine Learning Madness 2025](https://github.com/fantasy2fry/march-ml-madness-2025) - Kaggle Tournament - Predicting the outcomes of every possible matchup in the 2025 NCAA men's and women's basketball tournaments using machine learning.
 - [AUTOFUND](https://github.com/PiotrTyrakowski/AUTOFUND) - The project is an AutoML package that automates building, training, and tuning machine learning models on Numerai data for market trend forecasting.
 - [Hyperparameter Tunability AutoML](https://github.com/fantasy2fry/Hyperparameter-Tunability-AutoML) - The goal of this project is to analyze the tunability of hyperparameters of three selected machine learning algorithms (e.g., XGBoost, Random Forest, Elastic Net) on at least four datasets.
 - [RL-Doom](https://github.com/AdamKaniasty/RL-Doom) - The Project implements Reinforcement Learning methods in Doom game using vizdoom package.
