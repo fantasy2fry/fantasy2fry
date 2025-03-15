@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norbert-frydrysiak-055a77219/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fantasywfry/)
-[![Resume](https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=readme&logoColor=white)](Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-fe4b24?style=for-the-badge&logo=readme&logoColor=white)](Resume.pdf)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/fantasy2fry)
 
 
