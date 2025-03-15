@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/norbert-frydrysiak-055a77219/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/fantasywfry/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norbert-frydrysiak-055a77219/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fantasywfry/)
+[![Resume](https://img.shields.io/badge/Resume-018EF5?style=for-the-badge&logo=readme&logoColor=white)](Resume.pdf)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/fantasy2fry)
+
 
 Contact - [norbert.frydrysiak@proton.me](mailto:norbert.frydrysiak@proton.me)
 
@@ -11,6 +14,7 @@ Contact - [norbert.frydrysiak@proton.me](mailto:norbert.frydrysiak@proton.me)
 I approach my studies with great ambition and passion. I am seeking an IT internship that will provide me with valuable experience necessary to achieve my dreams. Despite being an individualist, I know how to function in a team to develop and achieve our goals together. I am open to new challenges.
 
 From a very young age, I have shown a great interest in the exact sciences, especially mathematics. I am also interested in the family of GNU/Linux operating systems and new technologies. In my free time, I follow the world of football and computer games. My newest interest is Reinforcement Learning, and it's something I'm eager to further develop in the future.
+
 
 <!--https://github.com/Ileriayo/markdown-badges-->
 
@@ -32,6 +36,7 @@ From a very young age, I have shown a great interest in the exact sciences, espe
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
 **I'm big fan of**
 
@@ -46,11 +51,15 @@ From a very young age, I have shown a great interest in the exact sciences, espe
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Arc](https://img.shields.io/badge/Arc-1638FB?style=for-the-badge&logo=Arc&logoColor=white)
 
 **I am going to learn**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Haskel](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
 ### Projects:
 - [March Machine Learning Madness 2025](https://github.com/fantasy2fry/march-ml-madness-2025) - Kaggle Tournament - Predicting the outcomes of every possible matchup in the 2025 NCAA men's and women's basketball tournaments using machine learning.
