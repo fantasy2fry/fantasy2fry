@@ -63,6 +63,7 @@ From a very young age, I have shown a great interest in the exact sciences, espe
 - [March Machine Learning Madness 2025](https://github.com/fantasy2fry/march-ml-madness-2025) - Kaggle Tournament - Predicting the outcomes of every possible matchup in the 2025 NCAA men's and women's basketball tournaments using machine learning.
 - [AUTOFUND](https://github.com/PiotrTyrakowski/AUTOFUND) - The project is an AutoML package that automates building, training, and tuning machine learning models on Numerai data for market trend forecasting.
 - [Hyperparameter Tunability AutoML](https://github.com/fantasy2fry/Hyperparameter-Tunability-AutoML) - The goal of this project is to analyze the tunability of hyperparameters of three selected machine learning algorithms (e.g., XGBoost, Random Forest, Elastic Net) on at least four datasets.
+- [Django-Blog-Forum](https://github.com/fantasy2fry/Django-Blog-Forum) - This project is a personal website functioning as a blog and forum, developed using Django, Python, and HTML.
 - [RL-Doom](https://github.com/AdamKaniasty/RL-Doom) - The Project implements Reinforcement Learning methods in Doom game using vizdoom package.
 - [Brand Laptops Clustering](https://github.com/fantasy2fry/brand-laptops-clustering-ml) - The objective of the project is to analyze and evaluate various clustering algorithms on a dataset of laptops.
 - [Credit Score Classification](https://github.com/fantasy2fry/credit-score-classification-ml) - The goal of the project is to predict based on data whether a given person will repay the loan.
