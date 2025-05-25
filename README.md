@@ -59,6 +59,7 @@ From a very young age, I have shown a great interest in the exact sciences, espe
 ![Haskel](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
 ### Projects:
+- [Top5 Football Analytics](https://github.com/fantasy2fry/football-data-warehouse-top5) - A data warehouse project enabling comprehensive analysis of football players and teams from Europe’s top 5 leagues using scraped data from FBref, Transfermarkt, and Wikipedia.
 - [Bayesian Image Restoration](https://github.com/KRZYchu8787/Bayesian-Image-Restoration) - Implementation of Bayesian statistical techniques for restoring degraded images through MAP and MMS estimators, utilizing Potts model and truncated quadratic energy function.
 - [March Machine Learning Madness 2025](https://github.com/fantasy2fry/march-ml-madness-2025) - Kaggle Tournament - Predicting the outcomes of every possible matchup in the 2025 NCAA men's and women's basketball tournaments using machine learning.
 - [AUTOFUND](https://github.com/PiotrTyrakowski/AUTOFUND) - The project is an AutoML package that automates building, training, and tuning machine learning models on Numerai data for market trend forecasting.
