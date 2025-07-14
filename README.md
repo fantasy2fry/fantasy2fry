@@ -59,6 +59,8 @@ From a very young age, I have shown a great interest in the exact sciences, espe
 ![Haskel](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
 ### Projects:
+- [Computational Intelligence](https://github.com/fantasy2fry/ComputationalIntelligenceDataAnalysis) - This project contains from-scratch implementations of Genetic Algorithms, Neural Networks, and Self-Organizing Maps in Python to solve a variety of practical optimization and data analysis problems.
+- [Financial Math Intro](https://github.com/fantasy2fry/FinancialMathIntro) - This project explores computational financial mathematics by implementing Monte Carlo methods for option pricing within the Black-Scholes and Cox-Ross-Rubinstein models.
 - [WB-SAE-CBM](https://github.com/fantasy2fry/WB-SAE-CBM) - This project explores Sparse Autoencoders (SAEs) as concept bottleneck models (CBMs) for interpreting learned representations in vision models.
 - [Top5 Football Analytics](https://github.com/fantasy2fry/football-data-warehouse-top5) - A data warehouse project enabling comprehensive analysis of football players and teams from Europe’s top 5 leagues using scraped data from FBref, Transfermarkt, and Wikipedia.
 - [Bayesian Image Restoration](https://github.com/KRZYchu8787/Bayesian-Image-Restoration) - Implementation of Bayesian statistical techniques for restoring degraded images through MAP and MMS estimators, utilizing Potts model and truncated quadratic energy function.
