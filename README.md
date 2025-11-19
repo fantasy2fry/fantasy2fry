@@ -58,6 +58,15 @@ From a very young age, I have shown a great interest in the exact sciences, espe
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Haskel](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
+
+### Bachelor’s Degree Projects:
+- **[Bachelor’s Thesis Repository: Adapting the gips library for classification problem utilizing discriminant analysis – gipsDA](https://github.com/AntoniKingston/gipsDAInzynierka)**  
+Repository containing my Bachelor’s thesis project, including the thesis document, manual tests, and datasets used for research and analysis.
+
+- **[Bachelor’s Thesis Package: gipsDA](https://github.com/AntoniKingston/gipsDA)**  
+Implementation of the software package developed as part of my Bachelor’s thesis, along with unit tests and documentation.
+
+
 ### Projects:
 - [Computational Intelligence](https://github.com/fantasy2fry/ComputationalIntelligenceDataAnalysis) - This project contains from-scratch implementations of Genetic Algorithms, Neural Networks, and Self-Organizing Maps in Python to solve a variety of practical optimization and data analysis problems.
 - [Financial Math Intro](https://github.com/fantasy2fry/FinancialMathIntro) - This project explores computational financial mathematics by implementing Monte Carlo methods for option pricing within the Black-Scholes and Cox-Ross-Rubinstein models.
