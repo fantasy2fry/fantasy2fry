@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norbert-frydrysiak/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fantasywfry/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/fantasy2fry)
 [![Resume](https://img.shields.io/badge/Resume-fe4b24?style=for-the-badge&logo=readme&logoColor=white)](Resume.pdf)
 
