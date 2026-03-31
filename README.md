@@ -67,6 +67,7 @@ Implementation of the software package developed as part of my Bachelor’s thes
 
 
 ### Projects:
+- [CNN Image Classification](https://github.com/fantasy2fry/CNN-Image-Classification-CINIC10) - This project investigates the performance and optimization of Convolutional Neural Networks for image classification on the CINIC-10 dataset , comparing models trained from scratch against transfer learning architectures and exploring few-shot learning paradigms.
 - [Multi Source Market Analytics](https://github.com/GimzickaDominika/Multi-Source-Market-Analytics) - This project implements a comprehensive Big Data architecture designed to ingest, unify, and analyze market data streams from various heterogeneous exchange APIs.
 - [Computational Intelligence](https://github.com/fantasy2fry/ComputationalIntelligenceDataAnalysis) - This project contains from-scratch implementations of Genetic Algorithms, Neural Networks, and Self-Organizing Maps in Python to solve a variety of practical optimization and data analysis problems.
 - [Financial Math Intro](https://github.com/fantasy2fry/FinancialMathIntro) - This project explores computational financial mathematics by implementing Monte Carlo methods for option pricing within the Black-Scholes and Cox-Ross-Rubinstein models.
