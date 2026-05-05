@@ -50,11 +50,11 @@ From a very young age, I have shown a great interest in the exact sciences, espe
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![Arc](https://img.shields.io/badge/Arc-1638FB?style=for-the-badge&logo=Arc&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 **I am going to learn**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Haskel](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
 
@@ -67,6 +67,7 @@ Implementation of the software package developed as part of my Bachelor’s thes
 
 
 ### Projects:
+- [Transformers Speech](https://github.com/fantasy2fry/Transformers-Speech) - This project investigates the performance and optimization of deep learning architectures for keyword spotting on the TensorFlow Speech Commands dataset, comparing custom CNN and Audio Transformer models trained from scratch against transfer learning architectures like Wav2Vec 2.0, and exploring audio augmentation and hierarchical cascade classification to handle challenging minority classes.
 - [CNN Image Classification](https://github.com/fantasy2fry/CNN-Image-Classification-CINIC10) - This project investigates the performance and optimization of Convolutional Neural Networks for image classification on the CINIC-10 dataset , comparing models trained from scratch against transfer learning architectures and exploring few-shot learning paradigms.
 - [Multi Source Market Analytics](https://github.com/GimzickaDominika/Multi-Source-Market-Analytics) - This project implements a comprehensive Big Data architecture designed to ingest, unify, and analyze market data streams from various heterogeneous exchange APIs.
 - [Computational Intelligence](https://github.com/fantasy2fry/ComputationalIntelligenceDataAnalysis) - This project contains from-scratch implementations of Genetic Algorithms, Neural Networks, and Self-Organizing Maps in Python to solve a variety of practical optimization and data analysis problems.
