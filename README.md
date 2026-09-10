@@ -87,13 +87,6 @@ Repository containing my Bachelor’s thesis project, including the thesis docum
 - [Fast Food Data Analysis Project](https://github.com/fantasy2fry/fast_food_data_analysis_project) - The goal of the project was to analyze food-related data using R language and ggplot package, and create a poster.
 
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fantasy2fry&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantasy2fry&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
 
 
 <!--
