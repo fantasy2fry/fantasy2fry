@@ -59,11 +59,11 @@ From a very young age, I have shown a great interest in the exact sciences, espe
 
 
 ### Bachelor’s Degree Projects:
+- **[Bachelor’s Thesis Package: gipsDA](https://github.com/AntoniKingston/gipsDA)**  
+Implementation of the software package developed as part of my Bachelor’s thesis, along with unit tests and [documentation](https://antonikingston.github.io/gipsDA/).
+
 - **[Bachelor’s Thesis Repository: Adapting the gips library for classification problem utilizing discriminant analysis – gipsDA](https://github.com/AntoniKingston/gipsDAInzynierka)**  
 Repository containing my Bachelor’s thesis project, including the thesis document, manual tests, and datasets used for research and analysis.
-
-- **[Bachelor’s Thesis Package: gipsDA](https://github.com/AntoniKingston/gipsDA)**  
-Implementation of the software package developed as part of my Bachelor’s thesis, along with unit tests and documentation.
 
 
 ### Projects:
