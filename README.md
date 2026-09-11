@@ -67,6 +67,7 @@ Repository containing my Bachelor’s thesis project, including the thesis docum
 
 
 ### Projects:
+- [AML Cost-Sensitive Predictive Modeling](https://github.com/PiotrDS/aml-cost-sensitive-predictive-modeling) - This project explores cost-sensitive predictive modeling for marketing campaign optimization by combining XGBoost, Lasso, and Forward Selection to jointly select informative features and profitable customer subsets while maximizing expected business profit.
 - [AML Missing Labels](https://github.com/fantasy2fry/aml-missing-labels) - This project investigates binary classification with missing labels by implementing L1-regularized logistic regression with FISTA and comparing semi-supervised learning approaches under MCAR, MAR, and MNAR missingness mechanisms.
 - [WTA Optimization](https://github.com/annaostrowska03/wta-optimization) - This project implements and empirically compares two Branch-and-Adjust solver architectures for the static Weapon–Target Assignment problem, combining mixed-integer optimization in Gurobi with piecewise-linear approximations and tangent-based lazy cuts.
 - [Multi Source Market Analytics](https://github.com/GimzickaDominika/Multi-Source-Market-Analytics) - This project implements an end-to-end Big Data platform for financial market analytics, combining real-time streaming and batch data from heterogeneous sources using Kafka, Hadoop, Hive, Spark, and HBase.
